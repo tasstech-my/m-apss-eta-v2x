@@ -7,7 +7,7 @@ export default defineConfig(({ mode }) => {
 
   return {
     // 🔹 MUST match repo name on GitHub
-    base: '/m-apss-eta-v2/',
+    base: '/m-apss-eta-v2x/',
 
     server: {
       port: 3000,
